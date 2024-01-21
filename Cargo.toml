@@ -1,10 +1,10 @@
 [package]
-name = "numeric"
+name = "slicemath"
 version = "0.1.0"
 edition = "2021"
 authors = ["Tim Straubinger"]
 description = "A library for element-wise operations on arrays of numeric values"
-repository = "https://github.com/timstr/numeric"
+repository = "https://github.com/timstr/slicemath"
 license = "MIT"
 keywords = ["math", "numeric", "arrays"]
 

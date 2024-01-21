@@ -1,4 +1,4 @@
-# numeric
+# slicemath
 
 A library for element-wise operations on arrays of numeric values. Includes generic functions filling, copying, and applying unary, binary, and ternary functions on slices of equal length, both in-place and out-of-place. Common numeric operations are included such as addition, subtraction, multiplication and division between slices and scalars. Also included are inclusive and exclusive scans and linspace. Array bounds are checked only once, and the functions will panic if multiple functions with unequal length are given.
 
