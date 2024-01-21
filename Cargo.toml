@@ -2,6 +2,11 @@
 name = "numeric"
 version = "0.1.0"
 edition = "2021"
+authors = ["Tim Straubinger"]
+description = "A library for element-wise operations on arrays of numeric values"
+repository = "https://github.com/timstr/numeric"
+license = "MIT"
+keywords = ["math", "numeric", "arrays"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
